@@ -1,7 +1,7 @@
 
 from distutils.core import setup
 setup \
-  ( name='jax-conditional-flows'
+  ( name='models'
   , version='0.1'
   , packages=['models']
   , install_requires= \
